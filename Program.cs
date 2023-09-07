@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Edit from branch master and push.");
+
+            Console.WriteLine("Edit again from branch master and push.");
         }
     }
 }
