@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monal\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\monal\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monal\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\monal\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monal\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\monal\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\monal\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\monal\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\monal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\monal\\source\\repos\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
