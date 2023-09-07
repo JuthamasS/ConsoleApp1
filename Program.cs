@@ -13,6 +13,8 @@
             Console.WriteLine("Edit from branch develop and push.");
 
             Console.WriteLine("Edit again from branch develop and push.");
+
+            Console.WriteLine("Edit from feature firstFeature and push.");
         }
     }
 }
