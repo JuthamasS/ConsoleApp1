@@ -21,6 +21,8 @@
             Console.WriteLine("Edit again and again from branch release 0.1.0 and push.");
             
             Console.WriteLine("Edit from branch hotfixFirst and push.");
+
+            Console.WriteLine("Edit again from branch hotfixFirst and push.");
         }
     }
 }
