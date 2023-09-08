@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W17EGKK3+ODHuX4IWcR4ACrS9Itdqw5txO596Q/HVweFWeDklq8mQ8K0PsQt7LscI7dlMynVzKh+nAN2Mlh42A==",
+  "dgSpecHash": "0nn0cBfpDR+SYu3arygy/drPVj72pEir+Jzl58iG5VawofbHuMhny0eNLw0900HRmxLjw1mGTd51zs0kF0e8dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\monal\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\monal\\source\\repos\\TestGitFlow\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
